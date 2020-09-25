@@ -326,7 +326,7 @@
     }
     
     .project__art {
-        height: 200px;
+        height: 400px;
         object-fit: cover;
         background-size: cover;
         overflow: hidden
