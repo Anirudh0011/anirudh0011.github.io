@@ -2,7 +2,7 @@
 # theportfolio
 
 **Portfolio!** 
-Live Preview - [Click Here](https://github.com/SmitCoderX/smitcoderx.github.io/)
+Live Preview - [Click Here](https://smitcoderx.github.io/)
 
 ## Preview
 
