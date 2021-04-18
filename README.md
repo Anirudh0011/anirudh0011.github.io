@@ -2,11 +2,11 @@
 # theportfolio
 
 **Portfolio!** 
-Live Preview - [Click Here](https://github.com/Anirudh0011/anirudh0011.github.io)
+Live Preview - [Click Here](https://github.com/SmitCoderX/https://smitcoderx.github.io/)
 
 ## Preview
 
-![thefolio preview](https://raw.githubusercontent.com/anirudh0011/theportfolio/master/preview.png "thefolio preview")
+![thefolio preview](https://raw.githubusercontent.com/smitcoderx/theportfolio/master/preview.png "thefolio preview")
 
 
 ## Folder Structure
