@@ -4,11 +4,6 @@
 **Portfolio!** 
 Live Preview - [Click Here](https://smitcoderx.github.io/)
 
-## Preview
-
-![thefolio preview](https://raw.githubusercontent.com/smitcoderx/theportfolio/master/preview.png "thefolio preview")
-
-
 ## Folder Structure
 
  - assets - fonts, icons and images.
